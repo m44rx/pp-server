@@ -12,4 +12,5 @@ spring:
           default-label: config-server
           uri: https://github.com/m44rx/pp-server
           search-paths:
-          - config-data
+          - pp-server
+          # - config-data
