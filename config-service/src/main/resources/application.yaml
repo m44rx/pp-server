@@ -10,6 +10,6 @@ spring:
       server:
         git:
           default-label: config-server
-          uri: https://gitlab.com/m44rx/py-microserv-tuto
+          uri: https://github.com/m44rx/pp-server
           search-paths:
           - config-data

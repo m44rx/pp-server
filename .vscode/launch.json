@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ConfigServiceApplication",
+            "request": "launch",
+            "mainClass": "com.configservice.configservice.ConfigServiceApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-UsuarioServiceApplication<usuario-service>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
